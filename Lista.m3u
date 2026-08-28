@@ -1,15 +1,3 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_RU.xml" x-tvg-url="https://epg.pw/xmltv/epg_RU.xml"
 #EXTINF:-1 tvg-id="7011" channel-id="7011" CUID="7011" tvg-name="Barely Legal TV" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608031616298602_85.png" group-title="tunarr",Barely Legal TV
 http://ntf8zwa6.velstraso.top/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/32231/index.m3u8
-
-
-
-
-
-
-
-
-url-tvg="https://epg.pw/xmltv/epg_RU.xml"
-x-tvg-url="https://epg.pw/xmltv/epg_RU.xml"
-url-tvg="https://epg.pw/xmltv/epg_RU.xml.gz"
-x-tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz"
